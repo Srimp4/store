@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Max\Documents\visual studio stuff\store\store\Source.cpp(420,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Max\Documents\visual studio stuff\store\store\Source.cpp(422,7): warning C4551: в вызове функции отсутствует список аргументов
+  store.vcxproj -> C:\Users\Max\Documents\visual studio stuff\store\x64\Debug\store.exe
