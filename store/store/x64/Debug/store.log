@@ -1,0 +1,5 @@
+﻿  Source.cpp
+G:\store\store\Source.cpp(154,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+G:\store\store\Source.cpp(188,5): error C3861: ShowUserMenu: идентификатор не найден
+G:\store\store\Source.cpp(507,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+G:\store\store\Source.cpp(509,7): warning C4551: в вызове функции отсутствует список аргументов
