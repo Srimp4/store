@@ -13,8 +13,6 @@ std::string* password = new std::string[user_count]{ "admin","1" };
 double* sellsArr = new double[user_count]{0.0, 0.0};
 //----------------------------------------------------------------------//
 bool dy = false;
-bool bdaySale = false;
-bool HELL_iMeanBlackFriday = false;
 int size = 10;
 int* ID_arr = new int[size];
 std::string* name_arr = new std::string[size];
